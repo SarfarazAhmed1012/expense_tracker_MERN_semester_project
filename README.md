@@ -21,3 +21,4 @@ npm install
 npm start (to start the server on localhost)
 ```
 
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/69521378/183257386-a26ba290-c8ef-4f72-a834-7f01e745d6ed.gif)
